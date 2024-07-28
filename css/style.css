@@ -105,3 +105,14 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
+
+footer {
+  font-size: 14px;
+  text-align: center;
+  opacity: 0.7;
+  margin-top: 60px;
+}
+footer a {
+  text-decoration: none;
+  color: #a7026b;
+}
